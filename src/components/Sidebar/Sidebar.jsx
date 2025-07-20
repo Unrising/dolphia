@@ -15,7 +15,7 @@ const Sidebar = () => {
         <div className='sidebar'>
             <div className='top'>
                 <div className='menu' onClick={showSidebar}>
-                        <FontAwesomeIcon className='icon' icon={faBars}/>
+                    <FontAwesomeIcon className='icon' icon={faBars}/>
                 </div>
                 <div className='new-chat'>
                     <FontAwesomeIcon className='icon' icon={faPlus}/>
